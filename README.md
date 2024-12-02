@@ -36,6 +36,3 @@ I am a recent graduate of Software Park CodeCamp, Batch 18, as of November. I’
 <a href="https://github.com/Ju-Pa39">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ju-Pa39&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
-
-## Top Repositories
-<div width="100%" align="center"></div>
